@@ -7,7 +7,7 @@
 - 🗺  I'm also addicted to travel and hiking.
 - 👩‍⚕️ Before becoming a web developer I worked as a nurse for 10 years. 
 - 🧐  I am looking for creative projects in the health and wellness sector.
-- ➡  Nurse, chiropractor, sports coach, physiotherapist, association, nutritionist, personal development coach, naturopath, sophrologist, etc... Let's develop your digital identity together to increase your activity.
+- ➡  Sports coach, yoga teacher, nurse, physiotherapist,  personal development coach, association, chiropractor, nutritionist, naturopath, sophrologist, etc... Let's develop your digital identity together to increase your activity.
 - 💬  charlene.zybala@gmail.com
 
 
