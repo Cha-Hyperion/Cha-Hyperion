@@ -1,12 +1,13 @@
-### Hello, I'm Charlene, a junior web developer. 👋
+### Hello, I'm Charlene, a web developer. 👋
 
 
 - 🇫🇷  Based in Burgundy, France
 - 👩‍💻   After a 2 month training with WP Chef followed by a 6 month at o'Clock, I have decided to become a freelance.
 - ❤  I'm a wordPress, web design and front end development lover.
 - 🗺  I'm also addicted to travel and hiking.
-- 🧐  I’m looking for creative projects in the tourism sector.
-- ➡  Hotel, restaurant,tourist office, travel blog, cultural ou sports activity, museum...
+- 👩‍⚕️ Before becoming a web developer I worked as a nurse for 10 years. 
+- 🧐  I am looking for creative projects in the health and wellness sector.
+- ➡  Nurse, chiropractor, sports coache, physiotherapist, association, nutritionist, personal development coach, naturopath, sophrologist ... Let's develop your digital identity together to increase your activity.
 - 💬  charlene.zybala@gmail.com
 
 
