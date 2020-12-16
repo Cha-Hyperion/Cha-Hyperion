@@ -8,6 +8,7 @@
 - 👩‍⚕️ Before becoming a web developer I worked as a nurse for 12 years. 
 - 🧐  I am looking for creative projects in the health and wellness sector.
 - ➡  Sports coach, yoga teacher, nurse, physiotherapist,  personal development coach, association, chiropractor, nutritionist, naturopath, sophrologist, etc... Let's develop your digital identity together to increase your activity.
-- 💬  charlene.zybala@gmail.com
+- 💬  contact@charlenezybala.com
+- 👀 https://charlenezybala.com
 
 
